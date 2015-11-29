@@ -2,6 +2,7 @@
 autor: Ademílson F. Tonato
 
 ## Listagem das databases (passo 2)
+
 ```
 lucasft(mongod-2.6.10) use be-mean-pokemons
 switched to db be-mean-pokemons
@@ -151,7 +152,6 @@ lucasft(mongod-2.6.10) be-mean-pokemons> poke
   "defense": 9999,
   "height": 1.09
 }
-
 ```
 
 ## Atualização do Pikachu (passo 7)
